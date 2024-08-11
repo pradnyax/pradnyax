@@ -12,13 +12,6 @@
 - 💡 Passionate about turning code into magic.
 - 👨‍💻 Exploring new technologies, sometimes!
 
-### My Toolbox 🛠️🧰
-- **Languages:** Java, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js (or trying to)
-- **Databases:** MySQL, MongoDB
-- **Tools:** VS Code, Eclipse, Git, GitHub, Linux Terminal
-- **Cloud:** Azure, AWS, Firebase
-
 ### Fun Facts about me!! 🧑‍🚀
 -  I’m not a full-stack developer yet, but I’m stacking my skills one layer at a time. 🐛🔨
 - Whether it’s a novel or a manga or tech docs, I’m always reading something. 💡
