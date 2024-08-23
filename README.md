@@ -2,17 +2,17 @@
 
 ###  👋 Hi, I'm Pradnya! 🌟
 
-🚀 Software Engineer, writing code that sometimes even works. <br>
-⚡ Current Status: Refactoring my code and my life. ⚙️
+🚀 Computer Engineer, writing code that sometimes even works. <br>
+⚡ Current Status: Refactoring my code and my life, literally.⚙️
 
 ### Who Am I?
-- 🎓 Computer Engineer diving into full-stack development.
+- 🎓 Computer Engineering graduate diving into full-stack development.
 - 🚀 On a journey to explore the vast universe of coding.
 - 🌧️ Currently exploring cloud technologies. 
-- 💡 Passionate about turning code into magic.
+- 💡 Passionate about turning code into magic. 
 - 👨‍💻 Exploring new technologies, sometimes!
 
-### Fun Facts about me!! 🧑‍🚀
+### Fun Facts about me!!! 🧑‍🚀
 -  I’m not a full-stack developer yet, but I’m stacking my skills one layer at a time. 🐛🔨
 - Whether it’s a novel or a manga or tech docs, I’m always reading something. 💡
 - Learning how to balance coding and sleep. 🧩🧑‍💻
