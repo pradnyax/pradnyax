@@ -8,9 +8,7 @@
 ### Who Am I?
 - 🎓 Computer Engineering graduate diving into full-stack development.
 - 🚀 On a journey to explore the vast universe of coding.
-- 🌧️ Currently exploring cloud technologies. 
-- 💡 Passionate about turning code into magic. 
-- 👨‍💻 Exploring new technologies, sometimes!
+- 🌧️ Currently exploring cloud technologies.
 
 ### Fun Facts about me!!! 🧑‍🚀
 -  I’m not a full-stack developer yet, but I’m stacking my skills one layer at a time. 🐛🔨
