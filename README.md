@@ -1,26 +1,30 @@
-### Welcome to My GitHub! 👾✨
+✨  
+<img align="right" height="200" src="https://i.imgur.com/Tznn1IZ.gif"/>
 
-###  👋 Hi, I'm Pradnya! 🌟
 
-🚀 Computer Engineer, writing code that sometimes even works. <br>
-⚡ Current Status: Refactoring my code and my life, literally.⚙️
+```diff
+@@ Hi, I'm Pradnya 𓍢ִ໋🌷͙֒  @@
+🚀 Computer Engineer, writing code that sometimes even works. (┬┬﹏┬┬) 
 
-### Who Am I?
-- 🎓 Computer Engineering graduate diving into full-stack development.
-- 🚀 On a journey to explore the vast universe of coding.
-- 🌧️ Currently exploring cloud technologies.
+@@ About me @@
++ I know: Java, HTML, CSS, MySQL, Azure, Git and JavaScript (still learning!)
++ Exploring the world of Cloud and DevOps.
 
-### Fun Facts about me!!! 🧑‍🚀
--  I’m not a full-stack developer yet, but I’m stacking my skills one layer at a time. 🐛🔨
-- Whether it’s a novel or a manga or tech docs, I’m always reading something. 💡
-- Learning how to balance coding and sleep. 🧩🧑‍💻
+- Currently:
+- Contributing to: Open Source (trying my best!)
+- Preparing for cloud certifications to deepen my expertise in the cloud domain.
+```
+```diff
+@@ Haiku Time @@
+! In the code I write,
+! Bugs and errors come to play,
+! But I squash them all. 
 
-### 🖋️ Haiku Time 
-In the code I write, <br> Bugs and errors come to play, <br> But I squash them all. <br>
-
-### 🤖 Tech Jokes Corner 
-Why do programmers prefer cats over dogs? <br> Cats don’t bark at you when you mess up—they just judge silently, like your code does.
-
+@@ Tech Joke of the month @@
+> Why do programmers prefer cats over dogs? 
+> Cats don’t bark at you when you mess up—they just judge silently, like your code does.
+```
+![047D8926-17CF-4D08-9F32-5D314378CAC1](https://github.com/user-attachments/assets/51722c65-a545-4bfa-9196-d52b2a143292)
 <!---
 pjeurkar/pjeurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
