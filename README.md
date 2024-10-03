@@ -9,7 +9,8 @@
 @@ About me @@
 + I know: Java, HTML, CSS, MySQL, Azure, Git and JavaScript (still learning!)
 + Exploring the world of Cloud and DevOps.
-+ My hobbies? Novels, tech jokes, and enough anime and manga to qualify as a side quest in life.
++ My hobbies? Novels, tech jokes & haiku,
++ and enough anime and manga to qualify as a side quest in life.
 
 - Currently:
 - Contributing to: Open Source (trying my best!)
