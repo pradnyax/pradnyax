@@ -14,7 +14,7 @@
 
 - Currently:
 - Contributing to: Open Source (trying my best!)
-- Preparing for cloud certifications to deepen my expertise in the cloud domain.
+- Getting certified in cloud technologies. My career forecast? Partly sunny with a 100% chance of AWS & Azure!"
 ```
 ```diff
 @@ Haiku Time @@
@@ -26,7 +26,6 @@
 > Why do programmers prefer cats over dogs? 
 > Cats don’t bark at you when you mess up—they just judge silently, like your code does.
 ```
-![047D8926-17CF-4D08-9F32-5D314378CAC1](https://github.com/user-attachments/assets/51722c65-a545-4bfa-9196-d52b2a143292)
 <!---
 pjeurkar/pjeurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
