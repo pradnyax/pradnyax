@@ -14,7 +14,7 @@
 
 - Currently:
 - Contributing to: Open Source (trying my best!)
-- Getting certified in cloud technologies. My career forecast? Partly sunny with a 100% chance of AWS & Azure!"
+- Getting certified in cloud technologies.
 ```
 ```diff
 @@ Haiku Time @@
