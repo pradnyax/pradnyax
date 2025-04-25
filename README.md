@@ -7,11 +7,12 @@
 🚀 Computer Engineer, writing code that sometimes even works. (┬┬﹏┬┬) 
 
 @@ About me @@
-+ I know: Java, Python, HTML, CSS, MySQL, Azure, Git and JavaScript (still learning!)
++ I know: Java, HTML, CSS, MySQL, Azure, Git and JavaScript (still learning!)
 + Exploring the world of Cloud and DevOps.
 + My hobbies? Novels, tech jokes & haiku, and enough anime and manga to qualify as a side quest in life.
 
 - Currently:
+- Learning Go (loving it so far) 
 - Contributing to: Open Source (trying my best!)
 - Getting certified in cloud technologies.
 ```
