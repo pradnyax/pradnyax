@@ -4,7 +4,7 @@
 
 ```diff
 @@ Hi, I'm Pradnya🌷͙֒  @@
-🚀Computer Engineer💻 
+Computer Engineer💻 
 I write code that occasionally works on the first try. (┬┬﹏┬┬) 
 
 @@ About me @@
