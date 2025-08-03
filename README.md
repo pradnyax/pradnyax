@@ -26,8 +26,9 @@ Bugs and errors come to play,
 But I squash them all. 
 
 ! Tech Joke of the month 
-Why do programmers prefer cats over dogs? 
-Cats don’t bark at you when you mess up, they just judge silently, like your code does.
+Go to Java: "I’ve got goroutines!"
+Java: "Cool, I’ve got threads!"
+Go: "Yeah, but mine don’t make me cry." 🤣
 ```
 
 <!---
