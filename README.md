@@ -8,7 +8,7 @@ I write code that occasionally works on the first try. (┬┬﹏┬┬)
 
 ```diff
 - Tech Stack 
-+ Go/Golang | Python | Java | JavaScript (learning!) 
++ Go/Golang | Python | JavaScript (learning!) 
 + HTML | CSS | Bootstrap | MySQL 
 + Git/GitHub | Docker | AWS | Azure | Firebase 
 
