@@ -8,7 +8,7 @@ I write code that occasionally works on the first try. (┬┬﹏┬┬)
 
 ```diff
 + Tech Stack 
-Languages: Go/Golang, Python (Django, FastAPI), JavaScript
+Languages: Python (Django, FastAPI), Go/Golang, JavaScript
 Web/DB: HTML, CSS, Bootstrap, MySQL
 Tools: Git, Docker, AWS, Azure, Firebase
 
