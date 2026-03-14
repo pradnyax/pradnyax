@@ -10,7 +10,7 @@ I write code that occasionally works on the first try. (┬┬﹏┬┬)
 + Tech Stack 
 Languages: Python (Django, FastAPI), Go/Golang, JavaScript
 Web/DB: HTML, CSS, Bootstrap, MySQL
-Tools: Git, Docker, AWS, Azure, Firebase
+Tools: Git, Docker, AWS, Azure, Firebase, Insomnia
 
 - Currently, 
 1. Go microservices + Python FastAPI: a fantastic backend duo!
