@@ -21,7 +21,7 @@ Tools: Git, Docker, AWS, Azure, Firebase, Insomnia
 
 @@ "subtly shouting into the void that I'm hireable." ⭐😆 @@
 ```
-<img align="left" width="200" height="180" alt="14" src="https://github.com/user-attachments/assets/edf268af-3b61-45c5-ab29-765349ee9c1e" />
+<img align="left" width="195" height="190" alt="14" src="https://github.com/user-attachments/assets/edf268af-3b61-45c5-ab29-765349ee9c1e" />
 
 
 ```diff
